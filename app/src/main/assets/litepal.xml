@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="sunny_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.shaking.sunnyweather.db.Province"/>
+        <mapping class="com.shaking.sunnyweather.db.City"/>
+        <mapping class="com.shaking.sunnyweather.db.County"/>
+    </list>
+</litepal>
